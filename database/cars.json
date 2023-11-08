@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "model": "bmw",
+        "count": 0,
+        "price": 9000
+    },
+    {
+        "id": 3,
+        "model": "tahoe",
+        "count": 1,
+        "price": 700
+    },
+    {
+        "id": 1,
+        "model": "mers",
+        "count": 1,
+        "price": 9000
+    },
+    {
+        "id": 4,
+        "model": "ford mustang",
+        "count": 3,
+        "price": 300
+    }
+]

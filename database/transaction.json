@@ -1,0 +1,90 @@
+[
+    {
+        "id": 2,
+        "user_id": 6,
+        "car_id": 3,
+        "price": 100,
+        "status": "chiqim",
+        "date": "7-11-2023 19:35:57"
+    },
+    {
+        "id": 3,
+        "user_id": 5,
+        "car_id": 3,
+        "price": 100,
+        "status": "chiqim",
+        "date": "7-11-2023 19:37:32"
+    },
+    {
+        "id": 4,
+        "user_id": 5,
+        "car_id": 3,
+        "price": 700,
+        "status": "kirim",
+        "date": "7-11-2023 20:0:59"
+    },
+    {
+        "id": 5,
+        "user_id": 6,
+        "car_id": 3,
+        "price": 700,
+        "status": "kirim",
+        "date": "7-11-2023 20:2:31"
+    },
+    {
+        "id": 6,
+        "user_id": 3,
+        "car_id": 3,
+        "price": 700,
+        "status": "chiqim",
+        "date": "8-11-2023 14:46:14"
+    },
+    {
+        "id": 7,
+        "user_id": 4,
+        "car_id": 1,
+        "price": 9000,
+        "status": "chiqim",
+        "date": "8-11-2023 14:46:29"
+    },
+    {
+        "id": 8,
+        "user_id": 3,
+        "car_id": 4,
+        "price": 300,
+        "status": "chiqim",
+        "date": "8-11-2023 15:1:21"
+    },
+    {
+        "id": 9,
+        "user_id": 4,
+        "car_id": 4,
+        "price": 300,
+        "status": "chiqim",
+        "date": "8-11-2023 15:2:16"
+    },
+    {
+        "id": 10,
+        "user_id": 3,
+        "car_id": 4,
+        "price": 300,
+        "status": "kirim",
+        "date": "8-11-2023 16:2:15"
+    },
+    {
+        "id": 11,
+        "user_id": 4,
+        "car_id": 4,
+        "price": 300,
+        "status": "kirim",
+        "date": "8-11-2023 16:33:47"
+    },
+    {
+        "id": 12,
+        "user_id": 3,
+        "car_id": 4,
+        "price": 300,
+        "status": "kirim",
+        "date": "8-11-2023 16:34:46"
+    }
+]
